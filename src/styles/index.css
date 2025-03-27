@@ -1,3 +1,42 @@
 /* 
     General Styles
 */
+
+body {
+    background-color: black;
+    color: white; 
+
+    }
+
+
+
+
+
+
+
+  
+  .person-image {
+    max-width: 600px; 
+    height: auto;
+    margin: 20px auto;
+    display: block;
+  }
+
+
+  .vehicle-image {
+    max-width: 600px; 
+    height: auto;
+    margin: 20px auto;
+    display: block;
+  }
+
+
+  .planet-image {
+    max-width: 600px; 
+    height: auto;
+    margin: 20px auto;
+    display: block;
+  }
+
+ 
+ 
